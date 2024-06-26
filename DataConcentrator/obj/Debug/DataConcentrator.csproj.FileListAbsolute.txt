@@ -1,0 +1,30 @@
+C:\Users\cetoj\Desktop\ProjekatPSNUS\DataConcentrator\bin\Debug\DataConcentrator.dll.config
+C:\Users\cetoj\Desktop\ProjekatPSNUS\DataConcentrator\bin\Debug\DataConcentrator.dll
+C:\Users\cetoj\Desktop\ProjekatPSNUS\DataConcentrator\bin\Debug\DataConcentrator.pdb
+C:\Users\cetoj\Desktop\ProjekatPSNUS\DataConcentrator\bin\Debug\EntityFramework.dll
+C:\Users\cetoj\Desktop\ProjekatPSNUS\DataConcentrator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cetoj\Desktop\ProjekatPSNUS\DataConcentrator\bin\Debug\EntityFramework.xml
+C:\Users\cetoj\Desktop\ProjekatPSNUS\DataConcentrator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetoj\Desktop\ProjekatPSNUS\DataConcentrator\obj\Debug\DataConcentrator.csproj.AssemblyReference.cache
+C:\Users\cetoj\Desktop\ProjekatPSNUS\DataConcentrator\obj\Debug\DataConcentrator.csproj.CoreCompileInputs.cache
+C:\Users\cetoj\Desktop\ProjekatPSNUS\DataConcentrator\obj\Debug\DataConcentrator.csproj.CopyComplete
+C:\Users\cetoj\Desktop\ProjekatPSNUS\DataConcentrator\obj\Debug\DataConcentrator.dll
+C:\Users\cetoj\Desktop\ProjekatPSNUS\DataConcentrator\obj\Debug\DataConcentrator.pdb
+C:\Users\cetoj\Desktop\ProjekatPSNUS\DataConcentrator\bin\Debug\PLCSimulator.dll
+C:\Users\cetoj\Desktop\ProjekatPSNUS\DataConcentrator\bin\Debug\PLCSimulator.pdb
+C:\Users\cetoj\Desktop\ProjekatPSNUS\DataConcentrator\bin\Debug\PLCSimulator.dll.config
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\DataConcentrator\bin\Debug\DataConcentrator.dll.config
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\DataConcentrator\bin\Debug\DataConcentrator.dll
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\DataConcentrator\bin\Debug\DataConcentrator.pdb
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\DataConcentrator\bin\Debug\EntityFramework.dll
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\DataConcentrator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\DataConcentrator\bin\Debug\PLCSimulator.dll
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\DataConcentrator\bin\Debug\PLCSimulator.pdb
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\DataConcentrator\bin\Debug\PLCSimulator.dll.config
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\DataConcentrator\bin\Debug\EntityFramework.xml
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\DataConcentrator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\DataConcentrator\obj\Debug\DataConcentrator.csproj.AssemblyReference.cache
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\DataConcentrator\obj\Debug\DataConcentrator.csproj.CoreCompileInputs.cache
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\DataConcentrator\obj\Debug\DataConc.AF26BFFF.Up2Date
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\DataConcentrator\obj\Debug\DataConcentrator.dll
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\DataConcentrator\obj\Debug\DataConcentrator.pdb
