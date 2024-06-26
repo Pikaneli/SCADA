@@ -1,0 +1,159 @@
+C:\Users\cetoj\Downloads\PSNUSproject\ScadaGUI\bin\Debug\ScadaGUI.exe.config
+C:\Users\cetoj\Downloads\PSNUSproject\ScadaGUI\bin\Debug\ScadaGUI.exe
+C:\Users\cetoj\Downloads\PSNUSproject\ScadaGUI\bin\Debug\ScadaGUI.pdb
+C:\Users\cetoj\Downloads\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.csproj.AssemblyReference.cache
+C:\Users\cetoj\Downloads\PSNUSproject\ScadaGUI\obj\Debug\MainWindow.g.cs
+C:\Users\cetoj\Downloads\PSNUSproject\ScadaGUI\obj\Debug\App.g.cs
+C:\Users\cetoj\Downloads\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI_MarkupCompile.cache
+C:\Users\cetoj\Downloads\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI_MarkupCompile.lref
+C:\Users\cetoj\Downloads\PSNUSproject\ScadaGUI\obj\Debug\MainWindow.baml
+C:\Users\cetoj\Downloads\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.g.resources
+C:\Users\cetoj\Downloads\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.Properties.Resources.resources
+C:\Users\cetoj\Downloads\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.csproj.GenerateResource.cache
+C:\Users\cetoj\Downloads\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.csproj.CoreCompileInputs.cache
+C:\Users\cetoj\Downloads\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.exe
+C:\Users\cetoj\Downloads\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.pdb
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.AssemblyReference.cache
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAI.g.cs
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAlarm.g.cs
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAO.g.cs
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDI.g.cs
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDO.g.cs
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\MainWindow.g.cs
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\App.g.cs
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI_MarkupCompile.cache
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI_MarkupCompile.lref
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.exe
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.pdb
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\bin\Debug\ScadaGUI.exe.config
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\bin\Debug\ScadaGUI.exe
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\bin\Debug\ScadaGUI.pdb
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\bin\Debug\DataConcentrator.dll
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.dll
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\bin\Debug\DataConcentrator.pdb
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\bin\Debug\DataConcentrator.dll.config
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.xml
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAI.baml
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAlarm.baml
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAO.baml
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDI.baml
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDO.baml
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\MainWindow.baml
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.g.resources
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.Properties.Resources.resources
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.GenerateResource.cache
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.CoreCompileInputs.cache
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.CopyComplete
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\bin\Debug\PLCSimulator.dll
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\bin\Debug\PLCSimulator.pdb
+C:\Users\cetoj\Desktop\ProjekatPSNUS\ScadaGUI\bin\Debug\PLCSimulator.dll.config
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\bin\Debug\ScadaGUI.exe.config
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\bin\Debug\ScadaGUI.exe
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\bin\Debug\ScadaGUI.pdb
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\bin\Debug\DataConcentrator.dll
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.dll
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\bin\Debug\PLCSimulator.dll
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\bin\Debug\DataConcentrator.pdb
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\bin\Debug\DataConcentrator.dll.config
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\bin\Debug\PLCSimulator.pdb
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\bin\Debug\PLCSimulator.dll.config
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.xml
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.AssemblyReference.cache
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAI.g.cs
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAlarm.g.cs
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAO.g.cs
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDI.g.cs
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDO.g.cs
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\App.g.cs
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI_MarkupCompile.cache
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI_MarkupCompile.lref
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAI.baml
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAlarm.baml
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAO.baml
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDI.baml
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDO.baml
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\MainWindow.baml
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.g.resources
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.Properties.Resources.resources
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.GenerateResource.cache
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.CoreCompileInputs.cache
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.CopyComplete
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.exe
+C:\Users\Lara\Downloads\lola psnus\psnus LOLA\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.pdb
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\ScadaGUI.exe.config
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\ScadaGUI.exe
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\ScadaGUI.pdb
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\DataConcentrator.dll
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\PLCSimulator.dll
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\DataConcentrator.pdb
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\DataConcentrator.dll.config
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\PLCSimulator.pdb
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\PLCSimulator.dll.config
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAI.g.cs
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAlarm.g.cs
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAO.g.cs
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDI.g.cs
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDO.g.cs
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\App.g.cs
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI_MarkupCompile.cache
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI_MarkupCompile.lref
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAI.baml
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAlarm.baml
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAO.baml
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDI.baml
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDO.baml
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\MainWindow.baml
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.g.resources
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.exe
+C:\Users\LENOVO\Desktop\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.pdb
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\ScadaGUI.exe.config
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\ScadaGUI.exe
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\ScadaGUI.pdb
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\DataConcentrator.dll
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.dll
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\PLCSimulator.dll
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\DataConcentrator.pdb
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\DataConcentrator.dll.config
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\PLCSimulator.pdb
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\PLCSimulator.dll.config
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.xml
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.AssemblyReference.cache
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAI.g.cs
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAlarm.g.cs
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAO.g.cs
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDI.g.cs
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDO.g.cs
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\MainWindow.g.cs
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\App.g.cs
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI_MarkupCompile.cache
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI_MarkupCompile.lref
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAI.baml
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAlarm.baml
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateAO.baml
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDI.baml
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\Add-UpdateDO.baml
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\MainWindow.baml
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.g.resources
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.Properties.Resources.resources
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.GenerateResource.cache
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.CoreCompileInputs.cache
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.csproj.Up2Date
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.exe
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\ScadaGUI\obj\Debug\ScadaGUI.pdb

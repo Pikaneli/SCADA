@@ -1,0 +1,103 @@
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/21/2022 4:08:50 PM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 8:17:55 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 8:18:50 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 9:04:18 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 9:05:18 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 9:06:18 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 9:07:18 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 9:08:18 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 9:09:18 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 9:10:18 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 9:11:18 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 9:12:18 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 9:13:18 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 9:14:18 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 9:15:18 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 9:16:18 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 9:17:18 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 9:18:18 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 10:35:18 AM
+Alarm ID: A2 ,Tag name: rrr ,Alarm message: Pozrav , Date and time: 7/22/2022 10:37:35 AM
+Alarm ID: A3 ,Tag name: rrr ,Alarm message: aaa , Date and time: 7/22/2022 10:38:10 AM
+Alarm ID: A2 ,Tag name: rrr ,Alarm message: Pozrav , Date and time: 7/22/2022 10:38:26 AM
+Alarm ID: A3 ,Tag name: rrr ,Alarm message: aaa , Date and time: 7/22/2022 10:39:01 AM
+Alarm ID: A2 ,Tag name: rrr ,Alarm message: Pozrav , Date and time: 7/22/2022 10:39:26 AM
+Alarm ID: A3 ,Tag name: rrr ,Alarm message: aaa , Date and time: 7/22/2022 10:40:01 AM
+Alarm ID: A2 ,Tag name: rrr ,Alarm message: Pozrav , Date and time: 7/22/2022 10:40:26 AM
+Alarm ID: A3 ,Tag name: rrr ,Alarm message: aaa , Date and time: 7/22/2022 10:41:01 AM
+Alarm ID: A2 ,Tag name: rrr ,Alarm message: Pozrav , Date and time: 7/22/2022 10:41:26 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 10:41:58 AM
+Alarm ID: A3 ,Tag name: rrr ,Alarm message: aaa , Date and time: 7/22/2022 10:41:59 AM
+Alarm ID: A2 ,Tag name: rrr ,Alarm message: Pozrav , Date and time: 7/22/2022 10:42:00 AM
+Alarm ID: A3 ,Tag name: rrr ,Alarm message: aaa , Date and time: 7/22/2022 10:42:01 AM
+Alarm ID: A1 ,Tag name: aaa ,Alarm message: Visok nivo , Date and time: 7/22/2022 10:44:18 AM
+Alarm ID: A3 ,Tag name: rrr ,Alarm message: aaa , Date and time: 7/22/2022 10:44:19 AM
+Alarm ID: A2 ,Tag name: rrr ,Alarm message: Pozrav , Date and time: 7/22/2022 10:44:26 AM
+Alarm ID: A3 ,Tag name: rrr ,Alarm message: aaa , Date and time: 7/22/2022 10:45:01 AM
+Alarm ID: A2 ,Tag name: rrr ,Alarm message: Pozrav , Date and time: 7/22/2022 10:45:26 AM
+Alarm ID: A3 ,Tag name: rrr ,Alarm message: aaa , Date and time: 7/22/2022 10:46:01 AM
+Alarm ID: A2 ,Tag name: rrr ,Alarm message: Pozrav , Date and time: 7/22/2022 10:46:26 AM
+Alarm ID: a3 ,Tag name: ai0 ,Alarm message: alarm , Date and time: 7/5/2023 12:14:08 PM
+Alarm ID: a3 ,Tag name: ai0 ,Alarm message: alarm , Date and time: 7/5/2023 12:15:57 PM
+Alarm ID: a3 ,Tag name: ai0 ,Alarm message: alarm , Date and time: 7/5/2023 12:16:02 PM
+Alarm ID: a3 ,Tag name: ai0 ,Alarm message: alarm , Date and time: 7/5/2023 12:17:02 PM
+Alarm ID: a3 ,Tag name: ai0 ,Alarm message: alarm , Date and time: 7/5/2023 12:18:02 PM
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:07:11
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:07:12
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:07:13
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:07:16
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:07:17
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:07:19
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:07:22
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:07:27
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:07:28
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:12:35
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:12:36
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:12:39
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:12:41
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:12:43
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:12:45
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:12:48
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:12:49
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:12:50
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:12:52
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:15:06
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:15:07
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:15:10
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:15:12
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:15:15
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:16:00
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:16:03
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:16:04
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:16:06
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:17:08
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:17:10
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:17:12
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:17:16
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:17:19
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:17:20
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:17:23
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:17:25
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:17:26
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:29:18
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:29:20
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:29:22
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:29:24
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:29:26
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:29:28
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:29:30
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:29:33
+Alarm ID: 55 ,Tag name: 67 ,Alarm message: nesto 1 , Date and time: 12-Jun-24 23:29:34
+Alarm ID: njasfasf ,Tag name: 67 ,Alarm message: malo , Date and time: 19-Jun-24 12:40:04
+Alarm ID: njasfasf ,Tag name: 54 ,Alarm message: malo , Date and time: 19-Jun-24 12:40:29
+Alarm ID: njasfasf ,Tag name: 54 ,Alarm message: malo , Date and time: 19-Jun-24 13:21:52
+Alarm ID: njasfasf ,Tag name: 54 ,Alarm message: malo , Date and time: 19-Jun-24 13:22:00
+Alarm ID: njasfasf ,Tag name: 67 ,Alarm message: malo , Date and time: 19-Jun-24 13:35:20
+Alarm ID: 55 ,Tag name: 15 ,Alarm message: previsoko , Date and time: 19-Jun-24 13:42:01
+Alarm ID: 55 ,Tag name: 15 ,Alarm message: previsoko , Date and time: 19-Jun-24 13:44:01
+Alarm ID: 55 ,Tag name: 15 ,Alarm message: previsoko , Date and time: 19-Jun-24 13:45:01
+Alarm ID: 55 ,Tag name: 15 ,Alarm message: previsoko , Date and time: 19-Jun-24 13:46:01
+Alarm ID: 55 ,Tag name: 15 ,Alarm message: previsoko , Date and time: 19-Jun-24 13:47:02
+Alarm ID: 55 ,Tag name: 15 ,Alarm message: previsoko , Date and time: 19-Jun-24 13:48:01
+Alarm ID: 55 ,Tag name: 15 ,Alarm message: previsoko , Date and time: 19-Jun-24 13:49:01
+Alarm ID: 55 ,Tag name: 15 ,Alarm message: previsoko , Date and time: 19-Jun-24 13:50:17

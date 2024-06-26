@@ -1,0 +1,97 @@
+﻿<Window x:Class="ScadaGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ScadaGUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Closing="Window_Closing" >
+    <Grid>
+        <Grid.ColumnDefinitions>
+        </Grid.ColumnDefinitions>
+        <TabControl Margin="10,0,6.334,9.667" Background="white" Grid.ColumnSpan="2">
+            <TabItem Header="Tagovi" BorderBrush="white" Background="Gray">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="77*"/>
+                        <ColumnDefinition Width="312*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <DataGrid Name ="VelicineGrid"  SelectedItem="{Binding SelectedZajednicka}"  IsReadOnly="True" SelectionMode="Single" AutoGenerateColumns="False" Margin="10,15,10,55" Grid.ColumnSpan="2">
+                        <DataGrid.Resources>
+                            <ImageBrush x:Key="UpdateBtnIcon" ImageSource="C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\Icons/update.jpg"/>
+                            <ImageBrush x:Key="DeleteBtnIcon" ImageSource="C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\Icons/delete.jpg"/>
+                        </DataGrid.Resources>
+                        <DataGrid.RowStyle>
+                            <Style TargetType="DataGridRow">
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding Aktivan}" Value="True">
+                                        <Setter Property="Background" Value="Red"/>
+                                        <Setter Property="Foreground" Value="Pink"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </DataGrid.RowStyle>
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Tag ID" Binding="{Binding Id}" Width="1*" />
+                            <DataGridTextColumn Header="Tip" Binding="{Binding Tip}" Width="1*" />
+                            <DataGridTextColumn Header="Opis" Binding="{Binding Description}" Width="1*" />
+                            <DataGridTextColumn Header="Vrednost" Binding="{Binding Current_value}" Width="1*" />
+                            <DataGridTextColumn Header="Poruka" Binding="{Binding Poruka}" Width="1*" />
+
+                            <DataGridTemplateColumn Width="*">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                            <Button Background="{StaticResource UpdateBtnIcon}" ToolTip="Azuriraj" Height="30" Width="30" Click="Update_Click"/>
+                                            <Button Background="{StaticResource DeleteBtnIcon}" ToolTip="Obrisi" Height="30" Width="30" Click="Delete_Click"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <Button Content="Dodaj DI" HorizontalAlignment="Left" VerticalAlignment="Bottom"  Height="30" Width="120" Click="Add_DI_Click" Margin="10,0,0,10"/>
+                    <Button Content="Dodaj DO" HorizontalAlignment="Left" VerticalAlignment="Bottom"  Height="30" Width="120" Click="Add_DO_Click" Grid.Column="1" Margin="147,0,0,10"/>
+                    <Button Content="Dodaj AI" HorizontalAlignment="Left" VerticalAlignment="Bottom"  Height="30" Width="120" Click="Add_AI_Click" Grid.Column="1" Margin="1,0,0,10" />
+                    <Button Content="Dodaj AO" HorizontalAlignment="Left" VerticalAlignment="Bottom"  Height="30" Width="120" Click="Add_AO_Click" Grid.Column="1" Margin="292,0,0,10"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Alarmi" BorderBrush="white" Background="Gray">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="9*"/>
+                        <ColumnDefinition Width="73*"/>
+                        <ColumnDefinition Width="688*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <DataGrid Name="AlarmiGrid" SelectedItem="{Binding SelectedAlarm}" AutoGenerateColumns="False" IsReadOnly="True" SelectionMode="Single" Margin="1,15,10,55" Grid.ColumnSpan="2" Grid.Column="1">
+                        <DataGrid.Resources>
+                            <ImageBrush x:Key="UpdateBtnIcon" ImageSource="C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\Icons/update.jpg"/>
+                            <ImageBrush x:Key="DeleteBtnIcon" ImageSource="C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\Icons/delete.jpg"/>
+                        </DataGrid.Resources>
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Width="*" Binding="{Binding Id}"/>
+                            <DataGridTextColumn Header="Poruka" Width="*" Binding="{Binding Message}"/>
+                            <DataGridTextColumn Header="Rastuca(1) / Opadajuca(0)" Width="*" Binding="{Binding H_l}"/>
+                            <DataGridTextColumn Header="Granica" Width="*" Binding="{Binding Limit}"/>
+
+                            <DataGridTemplateColumn Width="*">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                            <Button Background="{StaticResource UpdateBtnIcon}" ToolTip="Azuriraj" Height="30" Width="30" Click="UpdateAlarm_Click"/>
+                                            <Button Background="{StaticResource DeleteBtnIcon}" ToolTip="Obrisi" Height="30" Width="30" Click="DeleteAlarm_Click"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button Content="Dodaj alarm" HorizontalAlignment="Left" VerticalAlignment="Bottom"  Height="30" Width="120" Click="Add_Alarm_Click" Margin="2,0,0,10" Grid.Column="1" Grid.ColumnSpan="2"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
