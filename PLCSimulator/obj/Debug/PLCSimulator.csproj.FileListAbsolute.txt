@@ -1,0 +1,24 @@
+C:\Users\cetoj\Desktop\ProjekatPSNUS\PLCSimulator\bin\Debug\PLCSimulator.dll.config
+C:\Users\cetoj\Desktop\ProjekatPSNUS\PLCSimulator\bin\Debug\PLCSimulator.dll
+C:\Users\cetoj\Desktop\ProjekatPSNUS\PLCSimulator\bin\Debug\PLCSimulator.pdb
+C:\Users\cetoj\Desktop\ProjekatPSNUS\PLCSimulator\bin\Debug\EntityFramework.dll
+C:\Users\cetoj\Desktop\ProjekatPSNUS\PLCSimulator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cetoj\Desktop\ProjekatPSNUS\PLCSimulator\bin\Debug\EntityFramework.xml
+C:\Users\cetoj\Desktop\ProjekatPSNUS\PLCSimulator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetoj\Desktop\ProjekatPSNUS\PLCSimulator\obj\Debug\PLCSimulator.csproj.AssemblyReference.cache
+C:\Users\cetoj\Desktop\ProjekatPSNUS\PLCSimulator\obj\Debug\PLCSimulator.csproj.CoreCompileInputs.cache
+C:\Users\cetoj\Desktop\ProjekatPSNUS\PLCSimulator\obj\Debug\PLCSimulator.csproj.CopyComplete
+C:\Users\cetoj\Desktop\ProjekatPSNUS\PLCSimulator\obj\Debug\PLCSimulator.dll
+C:\Users\cetoj\Desktop\ProjekatPSNUS\PLCSimulator\obj\Debug\PLCSimulator.pdb
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\PLCSimulator\bin\Debug\PLCSimulator.dll.config
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\PLCSimulator\bin\Debug\PLCSimulator.dll
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\PLCSimulator\bin\Debug\PLCSimulator.pdb
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\PLCSimulator\bin\Debug\EntityFramework.dll
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\PLCSimulator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\PLCSimulator\bin\Debug\EntityFramework.xml
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\PLCSimulator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\PLCSimulator\obj\Debug\PLCSimulator.csproj.AssemblyReference.cache
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\PLCSimulator\obj\Debug\PLCSimulator.csproj.CoreCompileInputs.cache
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\PLCSimulator\obj\Debug\PLCSimul.7DFBA356.Up2Date
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\PLCSimulator\obj\Debug\PLCSimulator.dll
+C:\Users\petar\Downloads\wetransfer_psnus_2024-06-06_1424\LARA psnus projekat\ProjekatPSNUS\PLCSimulator\obj\Debug\PLCSimulator.pdb

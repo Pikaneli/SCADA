@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\scadagui\\add-updatealarm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\add-updatealarm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|c:\\users\\petar\\downloads\\wetransfer_psnus_2024-06-06_1424\\lara psnus projekat\\projekatpsnus\\scadagui\\add-updateai.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\add-updateai.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\dataconcentrator\\analogoutputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|solutionrelative:dataconcentrator\\analogoutputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\dataconcentrator\\basecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|solutionrelative:dataconcentrator\\basecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DataConcentrator.BaseContext/True/SqlTable/dbo.Alarms.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\dataconcentrator\\analoginputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|solutionrelative:dataconcentrator\\analoginputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\dataconcentrator\\alarms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|solutionrelative:dataconcentrator\\alarms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33BD88-1C29-4D05-8BB6-C41323290719}|PLCSimulator\\PLCSimulator.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\plcsimulator\\plcsimulatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC33BD88-1C29-4D05-8BB6-C41323290719}|PLCSimulator\\PLCSimulator.csproj|solutionrelative:plcsimulator\\plcsimulatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|c:\\users\\petar\\downloads\\wetransfer_psnus_2024-06-06_1424\\lara psnus projekat\\projekatpsnus\\dataconcentrator\\zajednicka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|solutionrelative:dataconcentrator\\zajednicka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\dataconcentrator\\digitalinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|solutionrelative:dataconcentrator\\digitalinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\scadagui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\dataconcentrator\\plcinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|solutionrelative:dataconcentrator\\plcinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\dataconcentrator\\digitaloutputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|solutionrelative:dataconcentrator\\digitaloutputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\scadagui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\scadagui\\add-updateai.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\add-updateai.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\scadagui\\add-updatealarm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\add-updatealarm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\scadagui\\add-updateao.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\add-updateao.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\scadagui\\add-updatedi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\add-updatedi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\scadagui\\add-updatedo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\add-updatedo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\scadagui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add-UpdateAI.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\Add-UpdateAI.xaml.cs",
+              "RelativeDocumentMoniker": "ScadaGUI\\Add-UpdateAI.xaml.cs",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\Add-UpdateAI.xaml.cs",
+              "RelativeToolTip": "ScadaGUI\\Add-UpdateAI.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:48:33.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Alarms [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DataConcentrator.BaseContext/True/SqlTable/dbo.Alarms.sql",
+              "ToolTip": "dbo.Alarms [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-19T11:46:00.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\BaseContext.cs",
+              "RelativeDocumentMoniker": "DataConcentrator\\BaseContext.cs",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\BaseContext.cs",
+              "RelativeToolTip": "DataConcentrator\\BaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:11:46.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnalogOutputs.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\AnalogOutputs.cs",
+              "RelativeDocumentMoniker": "DataConcentrator\\AnalogOutputs.cs",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\AnalogOutputs.cs",
+              "RelativeToolTip": "DataConcentrator\\AnalogOutputs.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:11:44.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnalogInputs.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\AnalogInputs.cs",
+              "RelativeDocumentMoniker": "DataConcentrator\\AnalogInputs.cs",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\AnalogInputs.cs",
+              "RelativeToolTip": "DataConcentrator\\AnalogInputs.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAJkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:11:39.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Alarms.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\Alarms.cs",
+              "RelativeDocumentMoniker": "DataConcentrator\\Alarms.cs",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\Alarms.cs",
+              "RelativeToolTip": "DataConcentrator\\Alarms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:11:35.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add-UpdateAlarm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\Add-UpdateAlarm.xaml.cs",
+              "RelativeDocumentMoniker": "ScadaGUI\\Add-UpdateAlarm.xaml.cs",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\Add-UpdateAlarm.xaml.cs",
+              "RelativeToolTip": "ScadaGUI\\Add-UpdateAlarm.xaml.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:05:01.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DigitalInputs.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\DigitalInputs.cs",
+              "RelativeDocumentMoniker": "DataConcentrator\\DigitalInputs.cs",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\DigitalInputs.cs",
+              "RelativeToolTip": "DataConcentrator\\DigitalInputs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:11:49.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PLCSimulatorManager.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\PLCSimulator\\PLCSimulatorManager.cs",
+              "RelativeDocumentMoniker": "PLCSimulator\\PLCSimulatorManager.cs",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\PLCSimulator\\PLCSimulatorManager.cs",
+              "RelativeToolTip": "PLCSimulator\\PLCSimulatorManager.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:14:49.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Zajednicka.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\Zajednicka.cs",
+              "RelativeDocumentMoniker": "DataConcentrator\\Zajednicka.cs",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\Zajednicka.cs",
+              "RelativeToolTip": "DataConcentrator\\Zajednicka.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:11:52.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ScadaGUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ScadaGUI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAACEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:46:19.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DigitalOutputs.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\DigitalOutputs.cs",
+              "RelativeDocumentMoniker": "DataConcentrator\\DigitalOutputs.cs",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\DigitalOutputs.cs",
+              "RelativeToolTip": "DataConcentrator\\DigitalOutputs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:47:36.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ScadaGUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\MainWindow.xaml",
+              "RelativeToolTip": "ScadaGUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:27:15.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PLCInstance.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\PLCInstance.cs",
+              "RelativeDocumentMoniker": "DataConcentrator\\PLCInstance.cs",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\DataConcentrator\\PLCInstance.cs",
+              "RelativeToolTip": "DataConcentrator\\PLCInstance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:11:51.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\App.xaml",
+              "RelativeDocumentMoniker": "ScadaGUI\\App.xaml",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\App.xaml",
+              "RelativeToolTip": "ScadaGUI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:27:13.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Add-UpdateDO.xaml",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\Add-UpdateDO.xaml",
+              "RelativeDocumentMoniker": "ScadaGUI\\Add-UpdateDO.xaml",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\Add-UpdateDO.xaml",
+              "RelativeToolTip": "ScadaGUI\\Add-UpdateDO.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:26:19.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Add-UpdateDI.xaml",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\Add-UpdateDI.xaml",
+              "RelativeDocumentMoniker": "ScadaGUI\\Add-UpdateDI.xaml",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\Add-UpdateDI.xaml",
+              "RelativeToolTip": "ScadaGUI\\Add-UpdateDI.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:24:20.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Add-UpdateAO.xaml",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\Add-UpdateAO.xaml",
+              "RelativeDocumentMoniker": "ScadaGUI\\Add-UpdateAO.xaml",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\Add-UpdateAO.xaml",
+              "RelativeToolTip": "ScadaGUI\\Add-UpdateAO.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:22:01.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Add-UpdateAlarm.xaml",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\Add-UpdateAlarm.xaml",
+              "RelativeDocumentMoniker": "ScadaGUI\\Add-UpdateAlarm.xaml",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\Add-UpdateAlarm.xaml",
+              "RelativeToolTip": "ScadaGUI\\Add-UpdateAlarm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:18:58.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Add-UpdateAI.xaml",
+              "DocumentMoniker": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\Add-UpdateAI.xaml",
+              "RelativeDocumentMoniker": "ScadaGUI\\Add-UpdateAI.xaml",
+              "ToolTip": "C:\\Users\\petar\\Downloads\\wetransfer_psnus_2024-06-06_1424\\LARA psnus projekat\\ProjekatPSNUS\\ScadaGUI\\Add-UpdateAI.xaml",
+              "RelativeToolTip": "ScadaGUI\\Add-UpdateAI.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:15:20.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
